@@ -1,2 +1,3 @@
 # uniquePasswordGenerator
-assignment #3 for module. generating random password
+assignment #3 for module. generating random passwordword
+
